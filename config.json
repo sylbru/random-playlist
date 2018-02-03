@@ -1,0 +1,18 @@
+{
+    "output_name": "playlist",
+    "audio_folder": "real_audio",
+    "sounds": [
+        "1.wav",
+        "2.wav",
+        "3.wav",
+        "4.wav"
+    ],
+    "silences": {
+        "silence_0-15.wav": 15,
+        "silence_1-00.wav": 60
+    },
+    "prevent_consecutive_or_almost": 2,
+    "minimum_silence_duration": 15,
+    "maximum_silence_duration": 120,
+    "length": 10
+}
